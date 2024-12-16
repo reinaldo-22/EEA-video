@@ -1,2 +1,2 @@
 # EEA-video
-Repo de soporte para entre de video sobre GLASSO
+Repo de soporte de video sobre GLASSO
